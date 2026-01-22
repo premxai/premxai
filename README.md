@@ -29,18 +29,18 @@ MS in Artificial Intelligence · Rochester Institute of Technology
 
 ---
 
-### 🧠 Writing & Research
-- Google Scholar → https://scholar.google.com/citations?user=yIWQSykAAAAJ&hl=en 
-- Medium → https://medium.com/@prem.b.kanaparthi
+## 🧠 Writing & Research
+- **Google Scholar** → https://premxai.com/scholar
+- **Medium** → https://premxai.com/medium
 
 I write to document practical ML engineering lessons and research insights.
 
 ---
 
-### 📫 How to Reach Me
-- Website → https://premxai.com  
-- LinkedIn → https://linkedin.com/in/premxai  
-- Email → kanaparthiprem03@gmail.com  
+## 📫 How to Reach Me
+- **Website** → https://premxai.com
+- **LinkedIn** → https://linkedin.com/in/premxai
+- **Email** → kanaparthiprem03@gmail.com
 
 ---
 
