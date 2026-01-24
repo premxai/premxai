@@ -31,7 +31,7 @@ MS in Artificial Intelligence · Rochester Institute of Technology
 
 ## 🧠 Writing & Research
 - **Google Scholar** → https://premxai.com/scholar
-- **Medium** → https://premxai.com/medium
+- **Medium** → https://medium.com/@premxai
 
 I write to document practical ML engineering lessons and research insights.
 
