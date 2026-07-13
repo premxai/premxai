@@ -2,7 +2,7 @@
 
 AI/ML engineer building production systems across LLM inference, retrieval, agents, evaluation, and data infrastructure.
 
-Currently working on:
+Most Recent Works:
 
 - [Kerna](https://github.com/premxai/kerna) - AI infrastructure and inference tooling
 - [Cryo](https://www.cryoweb.xyz/) - a searchable archive of the pre-AI web for people and agents
