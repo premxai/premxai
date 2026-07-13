@@ -1,47 +1,29 @@
-# Hi, I’m Prem 👋
+# Prem Babu Kanaparthi
 
-AI / Machine Learning Engineer  
-MS in Artificial Intelligence · Rochester Institute of Technology  
-📍 New York, USA
+AI/ML Engineer building reliable LLM, agent, retrieval, evaluation, and applied machine learning systems.
 
----
+United States | Open to relocation
 
-### 👨‍💻 About Me
-- I build **production-oriented machine learning systems**
-- Strong focus on **LLM systems**, RAG pipelines, and AI agents
-- Interested in systems that are **measurable, deployable, and reliable**
-- I care about clean design, reproducibility, and real-world trade-offs
+- M.S. in Artificial Intelligence, Rochester Institute of Technology, completed May 2026
+- B.Tech. in Computer Science, National Institute of Technology Silchar, completed May 2024
 
----
+## Selected work
 
-### 🔬 What I’m Currently Working On
-- Retrieval-Augmented Generation (RAG) systems
-- LLM evaluation & benchmarking frameworks
-- End-to-end ML pipelines (training → deployment)
-- Applied ML projects with real datasets and metrics
+- Built production LLM routing across three foundation models at Concentrix + Webhelp, cutting p95 latency from 4s to 1.5s and monthly inference spend from $45K to $37K.
+- Conducted graduate research at Rochester Institute of Technology on emergent emotional appraisal in generative agents using PyTorch, LSTMs, controlled simulations, ablations, and statistical testing.
+- Built ranking experiments, offline evaluation, behavioral feature pipelines, dropout-risk models, and phishing URL classifiers at AlphaBits Technologies and iNeuron AI.
 
----
+## Selected projects
 
-### 🤝 Open To
-- Collaborating on ML / LLM / systems projects
-- Research-oriented engineering work
-- Internship / full-time ML or AI engineer roles
+- [Kerna](https://github.com/premxai/kerna): Runtime trust layer for AI agents and MCP tool stacks.
+- [Nori](https://www.norinote.xyz/): AI job discovery platform backed by a registry covering 31,000+ companies.
+- [Cryo](https://www.cryoweb.xyz/): Search and retrieval over a frozen pre-2022 web corpus with BM25, vector search, provenance, and MCP access.
+- [Emotion Engine](https://web-production-91496.up.railway.app/poster/): Generative-agent research evaluated across 205,940 agent-step records.
+- [Sushi EDA](https://trysushi.xyz/): Full-stack data-quality and analytics product.
 
----
+## Contact
 
-## 🧠 Writing & Research
-- **Google Scholar** → https://premxai.com/scholar
-- **Medium** → https://premxai.medium.com/
-
-I write to document practical ML engineering lessons and research insights.
-
----
-
-## 📫 How to Reach Me
-- **Website** → https://premxai.com
-- **LinkedIn** → https://linkedin.com/in/premxai
-- **Email** → kanaparthiprem03@gmail.com
-
----
-
-> *Simple systems scale better than clever ones.*
+- Portfolio: https://premxai.com
+- LinkedIn: https://linkedin.com/in/premxai
+- Email: prem.b.kanaparthi@gmail.com
+- Phone: (585) 290-3036
