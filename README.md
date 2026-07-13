@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="./assets/system-lab.svg" alt="Animated gradient descent across an AI systems loss landscape" width="100%" />
+  <img src="./assets/optimization-landscape.svg" alt="Code-generated Adam trajectory across the Rosenbrock loss landscape" width="100%" />
 </p>
 
 <h3 align="center">I build AI/ML systems where the objective is measurable.</h3>
 
 <p align="center"><code>minimize(loss + latency + cost + uncertainty)</code></p>
+
+<p align="center"><sub>The banner is generated from a sampled Rosenbrock loss field and a real Adam trajectory. <a href="./scripts/generate-banner.mjs">View the generator.</a></sub></p>
 
 <p align="center">
   <a href="https://github.com/premxai/kerna"><b>Kerna</b></a> &nbsp; // &nbsp;
